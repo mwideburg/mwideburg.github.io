@@ -1,0 +1,9 @@
+.radius{
+    border-radius: 25px;
+}
+
+.port-img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
