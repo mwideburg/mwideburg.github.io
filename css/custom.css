@@ -7,3 +7,7 @@
     height: auto;
     object-fit: cover;
 }
+
+.border-portfolio{
+    border: 1px solid black;
+}
